@@ -7,9 +7,6 @@ Atuo como desenvolvedor full stack, com foco em Node.js e React. Tenho experiên
 - 🤖 **Automações:** n8n, Puppeteer, Selenium, Web Scraping
 - ⚡ **Sempre explorando:** APIs RESTful, integrações, agentes de IA
 
-<img height="370" src="https://raw.githubusercontent.com/pedromarttins/pedromarttins/main/banner.gif"/>
-
-##
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedromarttins&layout=compact&show_icons=true&theme=gradient"/>
