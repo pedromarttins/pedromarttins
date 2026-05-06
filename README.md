@@ -8,10 +8,6 @@ Atuo como desenvolvedor full stack, com foco em Node.js e React. Tenho experiên
 - ⚡ **Sempre explorando:** APIs RESTful, integrações, agentes de IA
 
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedromarttins&layout=compact&show_icons=true&theme=gradient"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromarttins&layout=compact"/>
-</div>
 
 # Principais tecnologias
 <p>
