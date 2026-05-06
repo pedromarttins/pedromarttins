@@ -1,4 +1,4 @@
-<!-- /texto -->
+<!-- perfil -->
 <h1 translate="no">Olá Mundo. Sou o Pedro Martins<!-- --></h1>
 
 Atuo como desenvolvedor full stack, com foco em Node.js e React. Tenho experiência criando pipelines de automação inteligentes com n8n, Puppeteer e Selenium — transformando processos manuais em fluxos automatizados e escaláveis.
